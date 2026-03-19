@@ -2,7 +2,9 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Vitor Duarte, tenho 18 anos e sou natural de Alagoas. Atualmente, estou cursando Sistemas de Informação no Centro Universitário CESMAC.
+Me chamo Vitor Duarte, Atualmente estou focado em me desenvolver como programador back-end, estudando Java e Spring, e aplicando esses conhecimentos em projetos práticos para evoluir minhas habilidades em lógica de programação, estrutura de código e desenvolvimento de APIs.
+
+Estou sempre em busca de aprender novas tecnologias, melhorar minha forma de pensar soluções e crescer na área de desenvolvimento de software.
 
 ---
 
