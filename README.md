@@ -10,7 +10,7 @@
 
 ###
 
-<h6 align="center">Estou focado em me desenvolver como programador back-end, construindo projetos práticos para evoluir minhas habilidades em lógica de programação, estrutura de código e desenvolvimento de APIs REST. Sempre em busca de boas práticas, soluções eficientes e crescimento contínuo na área de desenvolvimento de software.</h6>
+<h5 align="center">Estou focado em me desenvolver como programador back-end, construindo projetos práticos para evoluir minhas habilidades em lógica de programação, estrutura de código e desenvolvimento de APIs REST. Sempre em busca de boas práticas, soluções eficientes e crescimento contínuo na área de desenvolvimento de software.</h5>
 
 ###
 
